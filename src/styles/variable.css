@@ -1,0 +1,38 @@
+@import url(fonts.css);
+:root {
+  /* font */
+  --font-galmuri: 'Galmuri9';
+  --font-noto:    'Noto Sans KR', sans-serif;
+  --font-gaegu:   'Gaegu', cursive;
+  --font-neo:     'NanumSquareNeo-Variable';
+  --font-bit:     'bitbit';
+  --font-peace:   'PyeongChangPeace-Bold';
+  --font-gangwon: 'GangwonEdu_OTFBoldA';
+  --font-jua:     'BMJUA';
+  --font-yangjin: '양진체';
+  --font-pre:     'Pretendard-Regular';
+  --font-hs:      'HS-Regular';
+  --font-score:   'S-CoreDream';
+  --font-gmarket: 'GmarketSansMedium';
+
+  /* gap */
+  --gap-large: 40px;
+  --gap-big:   30px;
+  --gap-md:    20px;
+  --gap-sm:    10px;
+
+  /* color */
+  --black:  #000000;
+  --night:  #383B62;
+  --gray:   #727272;
+  --silver: #dadada;
+  --white:  #ffffff;
+  --pale:   #FFECEF;
+  --pink:   #FFCACA;
+  --yellow: #FBE15C;
+  --carrot: #EF854A;
+  --green:  #0aa146;
+
+  /* shadow */
+  --shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
