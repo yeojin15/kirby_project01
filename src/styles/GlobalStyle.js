@@ -26,44 +26,6 @@ const GlobalStyle = createGlobalStyle`
     'Noto Sans KR', 
     'Malgun Gothic', sans-serif;
   }
-  h1{
-    font-size: 24px;
-    margin-bottom: 5px;
-  }
-  span {
-    font-weight: bold;
-  }
-  .font1 {font-family: var(--font-galmuri);}
-  .font2 {font-family: var(--font-noto);}
-  .font3 {font-family: var(--font-gaegu);}
-  .font4 {font-family: var(--font-neo);}
-  .font5 {font-family: var(--font-bit);}
-  .font6 {font-family: var(--font-peace);}
-  .font7 {font-family: var(--font-gangwon);}
-  .font8 {font-family: var(--font-jua);}
-  .font9 {font-family: var(--font-yangjin);}
-  .font10 {font-family: var(--font-pre);}
-  .font11 {font-family: var(--font-hs);}
-  .font12 {font-family: var(--font-score);}
-  .font13 {font-family: var(--font-gmarket);}
-
-  .c1 {background: var(--silver);}
-  .c2 {background: var(--gray);}
-  .c3 {background: var(--black);}
-  .c4 {background: var(--yellow);}
-  .c5 {background: var(--night);}
-  .c6 {background: var(--carrot);}
-  .c7 {background: var(--green);}
-  .c8 {background: var(--pink);}
-  .c9 {background: var(--pale);}
-
-  .flex {display: flex;}
-  .box {width: 100px; height: 100px;}
-
-  .gap-large {margin-right: var(--gap-large)}
-  .gap-big {margin-right: var(--gap-big)}
-  .gap-md {margin-right: var(--gap-md)}
-  .gap-sm {margin-right: var(--gap-sm)}
 `;
 
 export default GlobalStyle;
