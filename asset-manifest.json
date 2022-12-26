@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kirby_project01/static/css/main.3242ac31.css",
+    "main.js": "/kirby_project01/static/js/main.f414a0fc.js",
+    "static/js/787.b1ba1a73.chunk.js": "/kirby_project01/static/js/787.b1ba1a73.chunk.js",
+    "index.html": "/kirby_project01/index.html",
+    "main.3242ac31.css.map": "/kirby_project01/static/css/main.3242ac31.css.map",
+    "main.f414a0fc.js.map": "/kirby_project01/static/js/main.f414a0fc.js.map",
+    "787.b1ba1a73.chunk.js.map": "/kirby_project01/static/js/787.b1ba1a73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3242ac31.css",
+    "static/js/main.f414a0fc.js"
+  ]
+}
